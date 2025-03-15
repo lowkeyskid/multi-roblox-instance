@@ -1,2 +1,2 @@
 # build cmd
-# gcc -o handle_scanner.exe multi.c -Wall -Wextra -municode
+# gcc -o MultiRoblox.exe multi.c -Wall -Wextra -municode
